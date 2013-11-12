@@ -39,8 +39,8 @@ namespace test_app_hledani_cesty
       start.SetXY(1, 1);
       start.SetXY(4, 4);
       
-      //Nacti_Level("./level/level3.txt");
-      Nacti_Level("../level/level3.txt");
+      //Nacti_Level("./levels/level3.txt");
+      Nacti_Level("./levels/level3.txt");
       kPlatno.Width = bludiste.max_x * (int)kStrana_Policka.Value;
       kPlatno.Height = bludiste.max_y * (int)kStrana_Policka.Value;
       //Hledej = new Find_Best_Path();
