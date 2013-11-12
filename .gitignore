@@ -1,0 +1,17 @@
+/simulace_pro_hru_pampuch/bin/Debug
+/simulace_pro_hru_pampuch/bin/Release
+
+obj
+
+/simulace_pro_hru_pampuch/*.suo
+
+Debug
+
+/test_app_hledani_cesty/bin/Release
+
+/test_app_hledani_cesty/*.suo
+/test_app_hledani_cesty/*.suo
+
+/test_app_hledani_cesty/bin/level
+
+/simulace_pro_hru_pampuch/bin/level
